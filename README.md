@@ -1,4 +1,4 @@
-#### For my Ramp freind 👋
+#### For my Ramp freinds 👋
 - ... just in case you didn't have the time to Base32 decode my message, here it is:
 
 `24180687-1624338774`
