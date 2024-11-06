@@ -1,8 +1,8 @@
 ### Hi, I'm Omar Elrefaei 👋
 
-I'm a recent graduate in Nanotechnology Engineering from the University of Waterloo, with a focus on solving complex problems using computational tools. My experience spans macroeconomic modeling, optical testing automation, and Python tool development. I enjoy optimizing code performance and working across multiple languages, including Python, Rust, and Julia.
+I'm a graduate from Nanotechnology Engineering from the University of Waterloo, where I focused my studies on solving complex problems using computational tools. My experience spans macroeconomic modeling, optical component testing automation, and Python tool development. I enjoy optimizing code performance and working across multiple languages, including Python, Rust, and Julia.
 
-Check my [web profile](https://omar-elrefaei.github.io/) to learn more
+Check my [profile](https://omar-elrefaei.github.io/) to learn more.
 
 #### Some of my opensource contributions
 - https://github.com/QuantumSavory/QuantumSymbolics.jl/pull/85
