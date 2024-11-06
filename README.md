@@ -2,13 +2,21 @@
 
 I'm a recent graduate in Nanotechnology Engineering from the University of Waterloo, with a focus on solving complex problems using computational tools. My experience spans macroeconomic modeling, optical testing automation, and Python tool development. I enjoy optimizing code performance and working across multiple languages, including Python, Rust, and Julia.
 
-### Some of my opensource contributions
+Check my [web profile](https://omar-elrefaei.github.io/) to learn more
+
+#### Some of my opensource contributions
+- https://github.com/QuantumSavory/QuantumSymbolics.jl/pull/85
 - https://github.com/oxinabox/DataDeps.jl/pull/165
 - https://github.com/JuliaSymbolics/SymbolicUtils.jl/pull/468
 - https://github.com/JuliaML/TableTransforms.jl/pull/15
 - https://github.com/JuliaMolSim/Molly.jl/pull/175
 
+#### Blog Posts
+- [Performance Optimization Techniques in Rust: A Case Study](https://omar-elrefaei.github.io/blog/rust-optimization.html)
 
+---------------------
+
+I'm available for full-time or contract work, send me an email (omar02295@gmail.com) and let us see if I can be of benefit to your project.
 
 <!--
 
