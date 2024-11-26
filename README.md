@@ -16,7 +16,7 @@ Check my [profile](https://omar-elrefaei.github.io/?campaign=November&source=Git
 
 ---------------------
 
-I'm available for full-time or contract work, send me an email (omar02295@gmail.com) and let us see if I can be of benefit to your project.
+I'm available for full-time or contract work, email me at el.omar.dev@gmail.com and let us see if I can be of benefit to your project.
 
 <!--
 
